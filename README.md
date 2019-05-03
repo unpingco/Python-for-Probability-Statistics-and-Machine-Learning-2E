@@ -1,4 +1,8 @@
 # Python-for-Probability-Statistics-and-Machine-Learning-2E
+
+![Draft cover](./Python_probability_statistics_machine_learning_2E.png)
+
+
 Second edition of Springer Book Python for Probability, Statistics, and Machine Learning 
 
 This book, fully updated for Python version 3.6+, covers the key ideas that link probability, statistics, and machine learning illustrated using Python modules in these areas.  All the figures and numerical results are reproducible using the Python codes provided. The author develops key intuitions in machine learning by working meaningful examples using multiple analytical methods and Python codes, thereby connecting theoretical concepts to concrete implementations. Detailed proofs for certain important results are also provided. Modern Python modules like Pandas, Sympy, Scikit-learn, Tensorflow, and Keras are applied to simulate and visualize important machine learning concepts like the bias/variance trade-off, cross-validation, and regularization. Many abstract mathematical ideas, such as convergence in probability theory, are developed and illustrated with numerical examples. 
