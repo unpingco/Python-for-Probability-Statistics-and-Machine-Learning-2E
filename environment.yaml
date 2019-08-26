@@ -4,6 +4,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - pip
   - numpy
   - matplotlib=3.1.0=py37h5429711_0
   - networkx=2.3=py_0
