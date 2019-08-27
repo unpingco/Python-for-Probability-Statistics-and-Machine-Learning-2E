@@ -20,3 +20,4 @@ dependencies:
   - cvxpy>=1.0.24
   - pip:
     - pandas-datareader==0.7.0
+    - lifelines
