@@ -1,3 +1,4 @@
+name: pypsml2E
 channels:
   - pyviz
   - conda-forge
@@ -305,5 +306,4 @@ dependencies:
     - uritemplate==3.0.0
     - wrapt==1.11.2
     - xarray==0.12.3
-prefix: /opt/conda3
 
