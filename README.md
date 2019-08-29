@@ -30,6 +30,22 @@ functional in this so-created environment. Note that there are
 embedded figures in the Jupyter notebooks that are meant to validate
 the outputs of the Matplotlib codes therein.
 
+
+## Docker setup instructions
+
+
+If you are using docker, there is a `Dockerfile` included. After cloning
+this repository, you can build the image with the following,
+
+    docker build -t pypsml2e .
+
+and then run it locally using,
+
+    docker container run -it -p 8888:8888 pypsml2e
+
+Then, navigate to the output URL and you can explore the 
+Jupyter notebooks for each chapter.
+
 Your comments (including errata) are welcome in the `Issues` link
 above.
 
