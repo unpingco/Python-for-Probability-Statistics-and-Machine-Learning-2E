@@ -1,4 +1,3 @@
-name: pypsml2E
 channels:
   - conda-forge
   - defaults
