@@ -11,15 +11,21 @@ This updated edition now includes the Fisher Exact Test and the Mann-Whitney-Wil
 
 This book is suitable for anyone with an undergraduate-level exposure to probability, statistics, or machine learning and with rudimentary knowledge of Python programming.
 
+
+## Conda setup instructions
+
 If you are using `conda`, you can get started by cloning this 
 repository and using the `environment.yaml` file as in the 
 following:
 
-   conda env create -n pyPSML -f environment.yaml
+    conda env create -n pyPSML -f environment.yaml
 
 and then activate the environment using the following,
 
-   conda activate pyPSML
+    conda activate pyPSML
 
 Then, you can run `jupyter notebook` and navigate the 
 Jupyter notebooks for the individual chapters.
+
+Your comments (including errata) are welcome in the `Issues` link
+above.
