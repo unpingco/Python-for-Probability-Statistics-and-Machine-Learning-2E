@@ -24,8 +24,13 @@ and then activate the environment using the following,
 
     conda activate pyPSML
 
-Then, you can run `jupyter notebook` and navigate the 
-Jupyter notebooks for the individual chapters.
+Then, you can run `jupyter notebook` and navigate the Jupyter
+notebooks for the individual chapters. All of the notebooks are fully
+functional in this so-created environment. Note that there are
+embedded figures in the Jupyter notebooks that are meant to validate
+the outputs of the Matplotlib codes therein.
 
 Your comments (including errata) are welcome in the `Issues` link
 above.
+
+Good luck! I hope you find these materials helpful.
