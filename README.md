@@ -54,7 +54,6 @@ https://hub.docker.com/r/unpingco/pypsml2e. Note that this may **not** be
 as up-to-date as building it yourself from this repository, but
 should still work fine.
 
-Your comments (including errata) are welcome in the `Issues` link
-above.
+Your comments (including errata) are welcome in the [Issues](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E/issues) link above.
 
 Good luck! I hope you find these materials helpful.
