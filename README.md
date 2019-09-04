@@ -43,16 +43,16 @@ and then run it locally using,
 
     docker container run -it -p 8888:8888 pypsml2e
 
-Then, navigate to the output URL and you can explore the 
-Jupyter notebooks for each chapter. Alternately, if you don't want to
-build your own image, you can do
+Then, navigate to the output URL and you can explore the Jupyter
+notebooks for each chapter. Alternately, if you don't want to build
+your own image, you can do
 
-    docker pull unpingco/pypsml2e
+    docker run -p 8888:8888 unpingco/pypsml2e
 
 to get the docker image from
-https://hub.docker.com/r/unpingco/pypsml2e. Note that this may **not** be
-as up-to-date as building it yourself from this repository, but
-should still work fine.
+https://hub.docker.com/r/unpingco/pypsml2e. Note that this may
+**not** be as up-to-date as building it yourself from this
+repository, but should still work fine.
 
 Your comments (including errata) are welcome in the [Issues](https://github.com/unpingco/Python-for-Probability-Statistics-and-Machine-Learning-2E/issues) link above.
 
